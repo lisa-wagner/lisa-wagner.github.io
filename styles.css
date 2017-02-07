@@ -1,0 +1,88 @@
+html {
+  color: white;
+  background-color: #008B8B;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+}
+body {
+  text-align: left;
+  background-color: #20B2AA;
+  color: white;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 1.231;
+  font-family: verdana, arial, helvetica, clean, sans-serif;
+  margin: 1em;
+  padding: 1em;
+}
+
+:link {
+  color: #F8F8FF;
+}
+
+:link:active {
+  color: #33ffff;
+}
+
+:link:visited {
+  color: #9999ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #006666; 
+}
+h1{font-size:138%;}
+h2{font-size:118%;}
+h3{font-size:108%;}
+
+li {
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+}
+
+img {
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+sub {
+  vertical-align: text-bottom;
+}
+
+ol,ul,dl{
+  margin:1em;
+  margin-left:2em;
+}
+
+ol li{
+	list-style:decimal outside;
+}
+
+ul li{
+	list-style:disc outside;
+}
+
+textarea{ 
+	width:12.25em;*width:11.9em;
+}
