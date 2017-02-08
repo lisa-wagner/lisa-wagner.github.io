@@ -94,3 +94,19 @@ ul li{
 textarea{ 
 	width:12.25em;*width:11.9em;
 }
+
+.publication-title {
+    font-weight: bold;
+}
+.conference-title {
+    font-weight: bold;
+}
+.position {
+
+}
+.duration {
+    font-weight: bold;
+}
+.coauthors, .conference-location {
+    color: #73d3e7;
+}
