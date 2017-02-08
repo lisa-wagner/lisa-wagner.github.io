@@ -20,6 +20,14 @@ body {
   padding: 1em;
 }
 
+p {
+	width: 800px;
+}
+
+div {
+	width: 800px;
+}
+
  /* unvisited link */
 a:link {
     color: #F8F8FF;
@@ -108,5 +116,5 @@ textarea{
     font-weight: bold;
 }
 .coauthors, .conference-location {
-    color: #73d3e7;
+    color: #396973;
 }
